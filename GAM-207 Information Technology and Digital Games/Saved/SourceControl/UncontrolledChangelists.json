@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/AI/AICont_BP.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/AI/Tasks/Wander.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/AI/AI_BT.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/AI/AI_BB.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/AI/AIChar_BP.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Player/Projectile_Mat.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/AI/AI_proj_mat.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/AI/AIProj_BP.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Player/Player_W.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Player/PlayerChar_BP.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/AI/AI_W.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Game/Score_W.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Game/ArenaPlayers.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Pickups/Pickup_M.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Pickups/Health_Pickup.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Pickups/Health_MAT.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Pickups/Shield_Pickup.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Map/TestLevel.umap",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Map/Level_1.umap",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Map/_GENERATED/seeya/Box_751CD644.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Map/_GENERATED/seeya/Box_0363C44F.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Map/_GENERATED/seeya/Box_0A3265EA.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Map/_GENERATED/seeya/Box_55BDD03E.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Map/_GENERATED/seeya/Box_6BD4C79A.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Map/_GENERATED/seeya/Box_6EEC24A1.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/Map/_GENERATED/seeya/Box_C3B01934.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/AI/AI_Char_BP.uasset",
+				"C:/Users/seeya/OneDrive/Desktop/GAM-207-Project-SNHU-Dalton/Content/AI/Wander.uasset",
+				"C:/Users/seeya/Desktop/GAM-207-Project-SNHU-Dalton/Content/Level_1.umap",
+				"C:/Users/seeya/Desktop/GAM-207-Project-SNHU-Dalton/Content/Map/NewMap.umap",
+				"C:/Users/seeya/Desktop/GAM-207-Project-SNHU-Dalton/Content/Map/Level_1.umap",
+				"C:/Users/seeya/Desktop/GAM-207-Project-SNHU-Dalton/Content/Player/PlayerCont_BP.uasset",
+				"C:/Users/seeya/Desktop/GAM-207-Project-SNHU-Dalton/Content/Player/PlayerChar_BP.uasset",
+				"C:/Users/seeya/Desktop/GAM-207-Project-SNHU-Dalton/Content/Player/PlayerProj_BP.uasset",
+				"C:/Users/seeya/Desktop/GAM-207-Project-SNHU-Dalton/Content/Player/Projectile_Mat.uasset",
+				"C:/Users/seeya/Desktop/GAM-207-Project-SNHU-Dalton/Content/Player/ArenaMode.uasset",
+				"C:/Users/seeya/Desktop/GAM-207-Project-SNHU-Dalton/Content/Player/StaticMesh_BP.uasset"
+			]
+		}
+	]
+}

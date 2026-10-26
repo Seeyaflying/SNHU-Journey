@@ -14,6 +14,71 @@ SNHU-Journey/ ├── CS-230/ │ ├── final-project/ │ └── READM
 
 
 Each class folder holds only the **showcase-quality work** from that course — typically the final project and any standout assignments that demonstrate meaningful skills. The full archive of labs, notes, and in-progress work stays private; what you see here is the best of each class.
+## IT-145: Foundation in Application Development
+
+**Prerequisites:** IT-140 or CS-110
+
+**Course description:** Using programming as a problem-solving technique in business and engineering applications. Students write computer code in a logical, structured, and organized manner while incorporating the key concepts of object orientation, and learn to write, review, and document interactive applications using Software Development Kits and Integrated Development Environment tools.
+
+**Competencies covered:**
+- **CS-20295** — Write programs by applying concepts and principles of object-oriented programming
+- **CS-20296** — Implement appropriate language constructs for an object-oriented programming language
+- **CS-20297** — Write programs using object-oriented conventions in accordance with industry standard best practices
+
+### Projects in this folder
+
+- **Pet** — A Java application demonstrating object-oriented programming concepts, with the program logic in a Java script file
+
+## CS-210: Programming Languages
+
+**Prerequisites:** IT-145
+
+**Course description:** Developing functional programs that comply with industry regulations and best practices using various programming languages. Special attention is paid to the importance of developing code that is not only functional, but also secure, efficient, and professional.
+
+**Competencies covered:**
+- **CS-20401** — Utilize various programming languages to develop secure, efficient code
+- **CS-20402** — Design functional programs that comply with industry regulations and best practices
+- **CS-30403** — Write professional, well-documented, and readable code
+
+### Projects in this folder
+
+- **Calculator** — A functional calculator application
+- **Corner Grocery** — A grocery store application
+- **Project 2: Airgead Banking** — A banking application
+- **TempConvert** — A temperature conversion application
+
+
+## GAM-207: Information Technology and Digital Games
+
+**Prerequisites:** IT-145
+
+**Course description:** An introduction to digital games and information technology covering game genres and platforms, interface design, game implementation, artificial intelligence, business economics of the game industry, game marketing and design, e-collaboration, and e-commerce. Students learn to use software packages to design and implement digital games, and how to use the Internet to market and distribute them. The course culminates in the conception, design, and prototype of an original digital game — designed for students interested in IT and games, including original game concepts, design and implementation, and executive leadership in the game industry. No prior programming knowledge is required.
+
+**Course outcomes:**
+- Create input device functionality within a game engine that effectively enables control of a game's player character
+- Incorporate 3D objects within a game engine that create unique functionality in game levels
+- Implement game logic within a game engine for driving functionality
+- Create graphical user interfaces in a game engine for enhancing the user experience
+- Articulate the importance of game design considerations and the development process
+
+### Projects in this folder
+
+- **Game Project in Unreal**
+
+## CS-250: Software Development Lifecycle
+
+**Course description:** An exploration of the different methodologies and stages involved in the software development life cycle, with a focus on applying the SDLC within an agile development environment using the Scrum framework. The course culminates in a Sprint Review and Retrospective, where students take on the role of Scrum Master to analyze the work completed during the SNHU Travel development project and present lessons learned to leadership.
+
+**Competencies covered:**
+- Explain the different methodologies and stages involved in the software development life cycle
+- Apply the stages of the software development life cycle within an agile development environment
+- Evaluate various software development methodologies and tools
+
+### Projects in this folder
+
+- **Sprint Review and Retrospective** — A paper taking on the role of Scrum Master, analyzing how the Scrum-Agile team's roles, user stories, communication, and organizational tools contributed to the SNHU Travel project, and assessing the effectiveness of the Agile approach
+- **Agile Presentation** — A PowerPoint for leadership explaining the key facets of the Scrum-Agile approach, contrasting waterfall and Agile methodologies, and outlining the factors to consider when choosing between them
+
 
 ## CS-230: Operating Platforms
 

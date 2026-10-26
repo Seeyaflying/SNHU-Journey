@@ -1,0 +1,12 @@
+# ninja log v6
+6	498	7668012795902049	CMakeFiles/untitled.dir/main.cpp.obj	96f30e99ee5e0db7
+3	246	7668012963312684	build.ninja	5b9dc58b18ff22e2
+11	631	7668012711205644	CMakeFiles/untitled.dir/Tracker.cpp.obj	ac960c3c298248a1
+499	640	7668012800833561	untitled.exe	21f6cb6fd032c6fd
+7	508	7668014242517409	CMakeFiles/untitled.dir/main.cpp.obj	96f30e99ee5e0db7
+508	638	7668014247521838	untitled.exe	21f6cb6fd032c6fd
+8	509	7668014504047220	CMakeFiles/untitled.dir/main.cpp.obj	96f30e99ee5e0db7
+510	653	7668014509062100	untitled.exe	21f6cb6fd032c6fd
+7	558	7668019948958185	CMakeFiles/untitled.dir/main.cpp.obj	96f30e99ee5e0db7
+11	661	7668019949008055	CMakeFiles/untitled.dir/Tracker.cpp.obj	ac960c3c298248a1
+661	786	7668019955500726	untitled.exe	21f6cb6fd032c6fd
